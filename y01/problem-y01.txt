@@ -22,3 +22,149 @@
 20130910        232799          Ghosting
 20130922        237664          Ghosting
 20131012        243431          Clouds
+### DES Y1 ###
+20130904        230886          Readout
+20130904        230887          Readout
+20130904        230889          Readout
+20130904        230893          Banding
+20130908        231980          Telescope Moving
+20130912        233650          Readout
+20130918        233757          Telescope Moving
+20130928        239191          Telescope Moving
+20131001        240615          Meteor
+20131003        241085          Banding
+20131010        243014          Readout
+20131014        244143          Readout
+20131028        247928          Banding       
+20131030        248736          Banding
+20131105        251066          Banding
+20131105        251108          Banding
+20131105        251138          Banding
+20131105        251185          Meteor
+20131105        251191          Banding
+20131106        251532          Banding
+20131106        251540          Meteor
+20131107        251837          Bright flare (S4 S5)
+20131108        252289          Banding
+20131109        252551          Blank
+20131110        252711          Telescope Moving
+20131114        254103          Telescope Moving
+20131115        255510          Readout
+20131115        255511          Readout
+20131115        255512          Readout
+20131118        255955          Meteor
+# Herring-bone pattern
+20131204        260427          Readout
+20131204        260428          Readout
+20131204        260429          Readout
+20131204        260430          Readout
+20131204        260431          Readout
+20131206        261360          Meteor
+20131206        261361          Telescope Moving
+20131209        262273          Meteor
+20131210        262700          Blank
+20131210        262701          Blank
+20131210        262702          Blank
+20131210        262703          Blank
+20131210        262704          Blank
+20131210        262705          Blank
+20131210        262706          Blank
+20131210        262707          Blank
+20131210        262708          Blank
+20131210        262709          Blank
+20131210        262710          Blank
+20131210        262711          Blank
+20131210        262712          Blank
+20131210        262713          Blank
+20131210        262714          Blank
+20131212        263708          Telescope Moving
+20131213        264107          Meteor
+20131215        265086          Readout
+20131215        265087          Readout
+20131215        265121          Readout
+20131215        265122          Readout
+20131215        265123          Readout
+20131215        265124          Readout
+20131215        265125          Readout
+20131215        265311          Telescope Moving
+20131219        266666          Meteor
+20131219        266706          Blank
+20131219        266707          Blank
+20131219        266708          Blank
+20131219        266709          No VSUB Flush
+20131227        268840          Aircraft
+20131231        270385          Meteor
+20140103        271202          Telescope Moving
+20140103        271204          Telescope Moving
+20140118        275630          Telescope Moving
+20140120        276434          Telescope Moving
+20140130        279838          Meteor
+20140209        283707          Out of Focus
+# Adding dome occlusions
+20130904        230828          Dome Obscuration
+20130909        232412          Dome Obscuration
+20130911        233236          Dome Obscuration
+20130911        233237          Dome Obscuration
+20130911        233238          Dome Obscuration
+20130911        233239          Dome Obscuration
+20130911        233240          Dome Obscuration
+20130914        234169          Dome Obscuration
+20130914        234516          Dome Obscuration
+20130914        234517          Dome Obscuration
+20130915        234670          Dome Obscuration
+20130915        234997          Dome Obscuration
+20130915        234998          Dome Obscuration
+20130915        234999          Dome Obscuration
+20130915        235000          Dome Obscuration
+20130915        235001          Dome Obscuration
+20130916        235150          Dome Obscuration
+20130916        235155          Dome Obscuration
+20130923        238075          Dome Obscuration
+20130923        238169          Dome Obscuration
+20130923        238170          Dome Obscuration
+20130923        238171          Dome Obscuration
+20130923        238172          Dome Obscuration
+20130923        238173          Dome Obscuration
+20130927        238862          Dome Obscuration
+20130927        238885          Dome Obscuration
+20130927        238886          Dome Obscuration
+20130928        239330          Dome Obscuration
+20130928        239331          Dome Obscuration
+20131001        240617          Dome Obscuration
+20131001        240618          Dome Obscuration
+20131001        240619          Dome Obscuration
+20131001        240620          Dome Obscuration
+20131001        240621          Dome Obscuration
+20131009        242371          Dome Obscuration
+20131009        242372          Dome Obscuration
+20131009        242373          Dome Obscuration
+20131009        242374          Dome Obscuration
+20131009        242375          Dome Obscuration
+20131010        242893          Dome Obscuration
+20131010        242894          Dome Obscuration
+20131010        242895          Dome Obscuration
+20131010        242896          Dome Obscuration
+20131010        242897          Dome Obscuration
+20131011        243152          Dome Obscuration
+20131011        243204          Dome Obscuration
+20131012        243434          Dome Obscuration
+20131012        243507          Dome Obscuration
+20131118        256020          Dome Obscuration
+20131121        257260          Dome Obscuration
+20131202        259808          Dome Obscuration
+20131202        259809          Dome Obscuration
+20131202        259810          Dome Obscuration
+20131202        259811          Dome Obscuration
+20131202        259812          Dome Obscuration
+20131202        259999          Dome Obscuration
+20131202        260000          Dome Obscuration
+20131202        260001          Dome Obscuration
+20131202        260002          Dome Obscuration
+20131202        260003          Dome Obscuration
+20131202        260004          Dome Obscuration
+20131203        260121          Dome Obscuration
+20131203        260162          Dome Obscuration
+20131203        260163          Dome Obscuration
+20131203        260172          Dome Obscuration
+20131203        260174          Dome Obscuration
+20140120        276435          Dome Obscuration

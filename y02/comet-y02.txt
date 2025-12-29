@@ -1,0 +1,88 @@
+#date     expnum ccd id ccdnum
+#390086 https://desar2.cosmology.illinois.edu/DESFiles/desarchive/OPS/firstcut/20141221-r1264/D00390086/p01/qa/D00390086_z_r1264p01_TN.png
+20141221  390086 nan S15  14
+20141221  390086 nan S16  15
+#390294 https://desar2.cosmology.illinois.edu/DESFiles/desarchive/OPS/firstcut/20141221-r1264/D00390294/p01/qa/D00390294_r_r1264p01_TN.png
+20141221  390294 nan nan   3
+20141221  390294 nan nan   6
+20141221  390294 nan nan   7
+20141221  390294 nan nan  11
+20141221  390294 nan nan  17
+20141221  390294 nan nan  23
+20141221  390294 nan nan  29
+20141221  390294 nan nan  36
+20141221  390294 nan nan  43
+20141221  390294 nan nan  49
+20141221  390294 nan nan  54
+20141221  390294 nan nan  55
+20141221  390294 nan nan  59
+20141221  390294 nan nan  62
+#390627 https://desar2.cosmology.illinois.edu/DESFiles/desarchive/OPS/firstcut/20141222-r1267/D00390627/p01/qa/D00390627_r_r1267p01_TN.png
+20141222  390627 nan nan  56
+20141222  390627 nan nan  60
+#390628 https://desar2.cosmology.illinois.edu/DESFiles/desarchive/OPS/firstcut/20141222-r1267/D00390628/p01/qa/D00390628_r_r1267p01_TN.png
+20141222  390628 nan nan  56
+20141222  390628 nan nan  60
+#390646 https://desar2.cosmology.illinois.edu/DESFiles/desarchive/OPS/firstcut/20141222-r1267/D00390646/p01/qa/D00390646_i_r1267p01_TN.png
+20141222  390646 nan nan   8
+20141222  390646 nan nan  13
+20141222  390646 nan nan  19
+#390664 https://desar2.cosmology.illinois.edu/DESFiles/desarchive/OPS/firstcut/20141222-r1267/D00390664/p01/qa/D00390664_g_r1267p01_TN.png
+20141222  390664 nan nan  18
+20141222  390664 nan nan  24
+20141222  390664 nan nan  31
+20141222  390664 nan nan  38
+#391748 https://desar2.cosmology.illinois.edu/DESFiles/desarchive/OPS/firstcut/20141225-r1274/D00391748/p01/qa/D00391748_g_r1274p01_TN.png
+#391787 https://desar2.cosmology.illinois.edu/DESFiles/desarchive/OPS/firstcut/20141225-r1274/D00391787/p01/qa/D00391787_r_r1274p01_TN.png
+20141225  391787 nan nan  18
+20141225  391787 nan nan  24
+20141225  391787 nan nan  30
+20141225  391787 nan nan  37
+20141225  391787 nan nan  43
+20141225  391787 nan nan  49
+20141225  391787 nan nan  54
+20141225  391787 nan nan  58
+20141225  391787 nan nan  59
+20141225  391787 nan nan  62
+#392104 https://desar2.cosmology.illinois.edu/DESFiles/desarchive/OPS/firstcut/20141226-r1278/D00392104/p01/qa/D00392104_r_r1278p01_TN.png
+20141226  392104 nan nan   7
+20141226  392104 nan nan  12
+20141226  392104 nan nan  17
+20141226  392104 nan nan  18
+20141226  392104 nan nan  23
+20141226  392104 nan nan  24
+20141226  392104 nan nan  30
+20141226  392104 nan nan  37
+20141226  392104 nan nan  43
+20141226  392104 nan nan  49
+#392105 https://desar2.cosmology.illinois.edu/DESFiles/desarchive/OPS/firstcut/20141226-r1278/D00392105/p01/qa/D00392105_g_r1278p01_TN.png
+20141226  392105 nan nan   3
+20141226  392105 nan nan   6
+20141226  392105 nan nan   7
+20141226  392105 nan nan  10
+20141226  392105 nan nan  11
+20141226  392105 nan nan  16
+20141226  392105 nan nan  17
+20141226  392105 nan nan  22
+20141226  392105 nan nan  23
+20141226  392105 nan nan  28
+20141226  392105 nan nan  29
+20141226  392105 nan nan  35
+20141226  392105 nan nan  36
+20141226  392105 nan nan  42
+20141226  392105 nan nan  48
+20141226  392105 nan nan  53
+20141226  392105 nan nan  54
+20141226  392105 nan nan  57
+20141226  392105 nan nan  58
+20141226  392105 nan nan  61
+#392106 https://desar2.cosmology.illinois.edu/DESFiles/desarchive/OPS/firstcut/20141226-r1278/D00392106/p01/qa/D00392106_i_r1278p01_TN.png
+20141226  392106 nan nan  12
+20141226  392106 nan nan  17
+20141226  392106 nan nan  18
+20141226  392106 nan nan  23
+20141226  392106 nan nan  24
+20141226  392106 nan nan  30
+20141226  392106 nan nan  37
+20141226  392106 nan nan  43
+20141226  392106 nan nan  49

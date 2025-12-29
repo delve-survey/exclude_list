@@ -88,3 +88,18 @@
 20170820        670009          Ghosting
 20171006        684541          NObjects 
 20171006        684543          NObjects 
+### DES Y5 ###
+20171119        697907          Telescope Moving
+20171119        697912          Telescope Moving
+20170902        674576          Processing
+# From Sahar
+20130922        237786          Observer Marked 
+20130923        238059          Observer Marked 
+20131204        260587          Observer Marked 
+20131213        264050          Observer Marked 
+20131229        269726          Observer Marked 
+20150902        470518          Observer Marked 
+20150902        470524          Observer Marked 
+20150902        470525          Observer Marked 
+20160211        516422          Observer Marked 
+20160211        516424          Observer Marked

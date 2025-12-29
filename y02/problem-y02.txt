@@ -84,3 +84,11 @@
 20150321        424141          Telescope Moving
 20150416        433293          Ghosting
 20150328        425619          Telescope Moving
+### DES Y2 ###
+20141022        370522          Telescope Moving 
+20141115        378302          Telescope Moving 
+20141222        390631          Telescope Moving 
+20150117        399732          Telescope Moving 
+20150123        402308          Telescope Moving 
+20150123        402308          Telescope Moving 
+20150123        402317          Telescope Moving 

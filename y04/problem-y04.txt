@@ -16,7 +16,7 @@
 20161222        603813          Canopus
 20161222        603820          Canopus
 20161230        605732          NObjects
-20170210        619360          Teelscope Moving
+20170210        619360          Telescope Moving
 20170211        619644          NObjects
 20170211        619645          NObjects
 20170211        619647          NObjects
@@ -44,3 +44,11 @@
 20170126        613394          Canopus
 20170126        613395          Canopus
 20170218        622393          Canopus
+### DES Y4 ###
+20170107        607541          Telescope Moving
+20161217        601767          Ghosting
+20161217        601768          Ghosting
+20160909        572962          Telescope Moving
+20160831        569841          No VSUB Flush
+20160826        568192          No VSUB Flush
+20160826        568197          No VSUB Flush

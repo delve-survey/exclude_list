@@ -52,3 +52,19 @@
 20160301        522055          Telescope Moving
 20150829        468232          Out of Focus
 20150829        468244          Out of Focus
+### DES Y3 ###
+20150813        463551          No VSUB Flush
+20150918        476338          Earthquake
+20150918        476339          Telescope Moving
+20150920        476932          Earthquake
+20150921        477366          Wonky
+20151008        483137          Telescope Moving 
+20151009        483423          No VSUB Flush
+20151023        487021          Telescope Moving 
+20151102        489480          Telescope Moving 
+20151104        489889          No VSUB Flush
+20151106        490787          Earthquake
+20151118        494620          No VSUB Flush
+20151121        495725          Telescope Moving 
+20151203        499046          Telescope Moving 
+20160209        515610          Earthquake
