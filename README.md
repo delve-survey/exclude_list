@@ -1,6 +1,6 @@
 # DECam Exclude Lists
 
-Assemble lists of bad/suspect DECam data to exclude from high-level processing. These lists are collected using a number of techniques, including visual inspection. These lists follow the same format as the DES exclusion lists found [here](https://des-ops.fnal.gov:8082/exclude/).
+Assemble lists of bad/suspect DECam images to exclude from high-level processing. These lists are collected using a number of techniques including an automated ray-tracing procedure and visual inspection. These lists follow the same format as the DES exclusion lists found [here](https://github.com/des-science/exclude_list).
 
 ## Execution
 
@@ -22,3 +22,7 @@ Upload list to the DESDM Oracle database:
 easyaccess -s decade -lt delve_exclude_YYYYMMDD.fits
 easyaccess -s decade -c "grant select on DELVE_EXCLUDE_YYYYMMDD to PUBLIC;"
 ```
+
+## Usage
+
+If you use this exposure list, please be sure to include a link to repository in your publication along with citations to DES ([DES Collaboration 2016](https://arxiv.org/abs/2101.05765)) and DELVE ([Drlica-Wagner et al. 2021](https://arxiv.org/abs/2103.07476)). Details on the automated ray-tracing technique used to identify ghosts and scattered light can be found in  [Kent (2013)](https://doi.org/10.2172/1690257) and is described in some detail in ([Chang et al. 2021](https://arxiv.org/abs/2105.10524)).
