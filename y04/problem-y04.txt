@@ -12,9 +12,11 @@
 20161109        591857          NObjects
 20161110        592214          NObjects
 20161110        592216          NObjects
+20161222        603682          Telescope Moving
 20161222        603813          Canopus
 20161222        603820          Canopus
 20161230        605732          NObjects
+20170210        619360          Teelscope Moving
 20170211        619644          NObjects
 20170211        619645          NObjects
 20170211        619647          NObjects
@@ -36,6 +38,7 @@
 20170618        654518          Bad Astrometry
 20170618        654519          Bad Astrometry
 20170618        654520          Bad Astrometry
+20170720        660432          Telescope Moving
 20170720        660458          Ghosting
 20170726        662663          NObjects
 20170126        613394          Canopus

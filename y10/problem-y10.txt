@@ -33,3 +33,6 @@
 20230714        1221801         Telescope Moving
 20231202        1257015         Telescope Moving
 20231202        1257077         Telescope Moving
+20231203        1257395         Noise
+20231203        1257396         Noise
+20231203        1257397         Noise

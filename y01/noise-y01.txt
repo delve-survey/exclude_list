@@ -44,6 +44,7 @@
 20131127  258263 nan nan  38
 # Corrupted Flat
 20140719 339224  nan nan  32
+20141023 370932  nan nan  29
 # readout
 20130717 220005  nan nan   7
 20130717 220005  nan nan  12

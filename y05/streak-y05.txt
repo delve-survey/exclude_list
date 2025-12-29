@@ -1,7 +1,5 @@
 #date     expnum ccd id ccdnum
 # Lightbulb
-20171110  695022 nan nan   46
-20171110  695032 nan nan   46
 20171110  695039 nan nan   46
 20171110  695042 nan nan   46
 20171110  695050 nan nan   46

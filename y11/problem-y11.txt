@@ -4,3 +4,11 @@
 20231004        1245074         Ghosting
 20231016        1247857         Clouds
 20231022        1249667         Nebula
+20230623        1217078         Telescope Moving
+20240804        1316828         Junk
+20240804        1316829         Junk
+20240804        1316830         Junk
+20240804        1316831         Junk
+20240804        1316832         Junk
+20240831        1323419         Dome Obscuration
+20240831        1323424         Dome Obscuration
