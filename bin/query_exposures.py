@@ -134,6 +134,7 @@ YEARS = odict([
     (9, [20210801,20220801]),
     (10,[20220801,20230801]),
     (11,[20230801,20240801]),
+    (12,[20240801,20250801]),
 ])    
 
 if __name__ == "__main__":
@@ -141,7 +142,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('-y', '--year', default=None, type=int,
                         help='year to query')
-    parser.add_argument('--db', default='sispi', choices=['sispi','delve','decade'],
+    parser.add_argument('--db', default='sispi',
                         help='database for query')
     parser.add_argument('--explist', default=None,
                         help='exposure list to select from')
@@ -169,6 +170,22 @@ if __name__ == "__main__":
         def run_query(query, conn):
             df = conn.query_to_pandas(query)
             return df
+    elif args.db.endswith(('.csv','.csv.gz')):
+        print("Loading from file: %s..."%args.db)
+        conn = filename = args.db
+        QUERY = """%(start)s, %(end)s"""
+        def run_query(query, conn):
+            start,end = [int(q) for q in query.split(',')]
+            df = pd.read_csv(conn)
+            sel = (df['nite'] >= start) & (df['nite'] <= end)
+            column_mapping = {"nite": "#nite", "band": "fil", "exptime": "exp"}
+            out = df.loc[sel][['nite','expnum','ra','dec','band','exptime']]
+            out.rename(columns=column_mapping, inplace=True)
+            out['object'] = 'object'
+            out['secz'] = 1.0
+            out['ut'] = '00:00'
+            out['status'] = 'good'
+            return out
     else:
         msg = 'Unrecognized database: %s'%args.db
         raise Exception(msg)

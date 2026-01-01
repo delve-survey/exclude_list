@@ -18,6 +18,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('filenames',nargs='+')
     parser.add_argument('-o','--outfile',default='exclude.csv')
+    parser.add_argument('-a','--analyst', default='kadrlica')
     args = parser.parse_args()
 
     expnum,ccdnum,reason = [],[],[]
@@ -34,9 +35,13 @@ if __name__ == "__main__":
         else:
             # Other files expected to have at least expnum,ccdnum
             # Other starts with #, so that makes things complicated...
-            names = pd.read_csv(f,nrows=0,delim_whitespace=True).columns.to_list()
-            df = pd.read_csv(f,delim_whitespace=True,comment='#',names=names)
+            names = pd.read_csv(f,nrows=0,sep='\s+').columns.to_list()
+            df = pd.read_csv(f,sep='\s+',comment='#',names=names)
             d = df.to_records(index=False)
+            try:
+                np.isnan(d['expnum'])
+            except:
+                print("Bad expnum in: %s"%f)
             expnum.append(d['expnum'])
             ccdnum.append(d['ccdnum'])
             if 'ghost-scatter' in f:
@@ -51,13 +56,15 @@ if __name__ == "__main__":
                 reason.append(len(d)*['Bad CCD'])
             elif 'processing' in f:
                 reason.append(len(d)*['Processing'])
+            elif 'comet' in f:
+                reason.append(len(d)*['Comet'])
             else:
                 reason.append(len(d)*['Unknown'])
 
     expnum = np.concatenate(expnum).astype(int)
     ccdnum = np.concatenate(ccdnum).astype(int)
     reason = np.concatenate(reason)
-    analyst = np.repeat('kadrlica',len(reason))
+    analyst = np.repeat(args.analyst, len(reason))
 
     data = np.rec.fromarrays([expnum,ccdnum,reason,analyst],dtype=DTYPE)
     print("Excluding %s CCDs..."%len(data))
