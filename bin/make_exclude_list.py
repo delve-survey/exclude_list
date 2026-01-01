@@ -27,7 +27,9 @@ if __name__ == "__main__":
 
         if 'problem' in f:
             # 'problem' files list expnum only
-            df = pd.read_csv(f,sep=r'\s{2,}',engine='python')
+            df = pd.read_csv(f,sep=r'\s{2,}',engine='python',
+                             names=['Nite','Exposure','Problem'],
+                             comment='#')
             d = df.to_records(index=False)
             expnum.append(np.repeat(d['Exposure'],62))
             ccdnum.append(np.tile(CCDNUMS,len(d['Exposure'])))

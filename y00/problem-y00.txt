@@ -79,3 +79,7 @@
 20130118        170433          Telescope Moving
 20130218        179207          Telescope Moving
 20130606        209637          Telescope Moving
+20121115        151707          Telescope Tracking
+20121115        151754          Telescope Tracking
+20121115        151758          Telescope Tracking
+20121115        153975          Telescope Tracking

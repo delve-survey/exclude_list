@@ -52,3 +52,4 @@
 20160831        569841          No VSUB Flush
 20160826        568192          No VSUB Flush
 20160826        568197          No VSUB Flush
+20161222        603696          Telescope Moving
