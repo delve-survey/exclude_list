@@ -201,6 +201,7 @@ id,ra,dec,vmag,radius,name
 5340,213.9154, 19.1825, -0.0400,  1.0000,Arcturus (Alpha Bootes)
 5423,101.2872,-16.7161,  6.3500,  1.6000,Sirius (Alpha Canis Majoris)
 6134,247.3517,-26.4319,  0.9600,  1.6000,Antares (Alpha Scorpii)
+5459,219.8996,-60.8353,  -0.010,  2.0000,Alp1Cen (Alpha Cen)
 7790,306.4121,-56.7350,  1.9400,  1.1000,Alpha Pavonis
 8425,332.0583,-46.9611,  1.7400,  1.1000,Alnair (Alpha Grus)
 8521,335.6829,-45.9478,  6.6200,  0.5000,pi.01 Grus
